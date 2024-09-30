@@ -54,6 +54,7 @@ public class Modificar extends javax.swing.JDialog {
         b_Buscar = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        setTitle("Modificar");
 
         jPanel1.setBackground(new java.awt.Color(204, 255, 255));
 

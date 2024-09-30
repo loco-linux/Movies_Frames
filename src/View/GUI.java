@@ -47,6 +47,7 @@ public class GUI extends javax.swing.JFrame {
         Menu_About = new javax.swing.JMenuItem();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
+        setTitle("Movies");
         setResizable(false);
 
         Menu_Inicio.setIcon(new javax.swing.ImageIcon(getClass().getResource("/Icons/house.png"))); // NOI18N

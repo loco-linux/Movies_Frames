@@ -52,6 +52,7 @@ public class Buscar extends javax.swing.JDialog {
         b_Buscar = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        setTitle("Buscar");
 
         jPanel1.setBackground(new java.awt.Color(153, 255, 255));
 

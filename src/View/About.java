@@ -33,6 +33,7 @@ public class About extends javax.swing.JDialog {
         lblAbout = new javax.swing.JTextArea();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        setTitle("Acerca de");
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
 

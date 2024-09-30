@@ -52,6 +52,7 @@ public class Agregar extends javax.swing.JDialog {
         b_Agregar1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        setTitle("Agregar");
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 153));
         jPanel1.setForeground(new java.awt.Color(255, 255, 255));
